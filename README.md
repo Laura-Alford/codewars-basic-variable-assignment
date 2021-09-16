@@ -1,0 +1,1 @@
+# codewars-basic-variable-assignment
